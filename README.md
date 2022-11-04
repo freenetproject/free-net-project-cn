@@ -1,5 +1,5 @@
 # 中国地区的自由网络项目
-本项目与https://zh.wikipedia.org/zh-cn/%E8%87%AA%E7%94%B1%E7%BD%91无关
+本项目与https://zh.wikipedia.org/zh-cn/%E8%87%AA%E7%94%B1%E7%BD%91 无关
 
 本项目是迎合时代潮流的
 
